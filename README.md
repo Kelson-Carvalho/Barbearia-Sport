@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/header.png" width="100%" height="150">  
+  <img src=".github/preview.png" width="100%" height="150">  
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <h1>Funcionalidades</h1>
 
-<img src=".github/header.png">
+<img src=".github/preview.png">
 
 <br>
 
