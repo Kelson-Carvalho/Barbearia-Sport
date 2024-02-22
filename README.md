@@ -31,7 +31,7 @@
 <br>
 
 <h1>Projeto finalizado</h1>
-<p><a href="" target="_blank">Clique aqui para seguir para o projeto finalizado</a></p>
+<p><a href="https://kelson-carvalho.github.io/Barbearia-Sport/" target="_blank">Clique aqui para seguir para o projeto finalizado</a></p>
 
 <h1>Licença</h1>
 <p>Esse projeto está sob a licença MIT.</p>
